@@ -1,4 +1,4 @@
-package com.alten.fgerodez;
+package com.sdc.fgerodez;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
